@@ -1,6 +1,8 @@
 CodeCombat
 ==========
 
+[![Join the chat at https://gitter.im/abhisekp/codecombat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/abhisekp/codecombat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![](https://dl.dropboxusercontent.com/u/138899/GitHub%20Wikis/readme_00.png)
 [![Build Status](https://travis-ci.org/codecombat/codecombat.png?branch=master)](https://travis-ci.org/codecombat/codecombat)
 
